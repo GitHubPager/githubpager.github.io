@@ -2,8 +2,8 @@
 <templates>
 	<template>
 		<name>Default Theme</name>
-		<url>http://githubpager.github.io/tiny.zip</url>
-		<img>http://githubpager.github.io/tiny.jpg</img>
+		<url>http://127.0.0.1/tiny.zip</url>
+		<img>http://127.0.0.1/tiny.jpg</img>
 		<author>Hi.</author>
 		<date>2013-9-11</date>
 		<version>5</version>
